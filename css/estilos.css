@@ -73,6 +73,28 @@ button,a { font-family: 'Righteous', cursive !important; }
     top: -27px;
 }
 
-
+.letrablanca
+{ 
+    color: white;
+    display: flex;
+    text-align: justify;
+}
+.center
+{   
+    display: flex;
+    justify-content:center;
+    color: white;
+}
+div.modal-body{
+    color: white;
+}
+.centrado
+{  display: flex;
+    justify-content:center;
+    color: white;
+}
+.justif
+{  display: flex;
+    text-align: justify;
 
 }

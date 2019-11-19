@@ -17,3 +17,7 @@ h1 { font-family: 'Righteous', cursive; font-size: large;
     min-height: 100vh;
     text-align: center;
 }
+
+div.modal-body{
+    color: white;
+}
