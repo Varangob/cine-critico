@@ -1,0 +1,19 @@
+body{
+    background-image: url("../image/fond.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 { font-family: 'Righteous', cursive; font-size: large;
+}
+.titulo_principal{
+    text-align: center;
+    font-size: 13vh;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+}
